@@ -1,21 +1,8 @@
-## func-template
-
-A Template for create modern command-line framework [func](https://github.com/unix/func).
-
-<br/>
-
 ## Features
 
-- Development and Bundle require only one command.
-- Small size package. (full command-line project ≈ 7kb)
-- Very few dependencies, run faster.
-- Bundle with [ncc](https://github.com/zeit/ncc), no redundancy whatsoever.
-- Beautifully structured, no burden of thinking.
+- 交互式命令行工具，一键升级工程中的包（依赖某个基本包），
+- 区分不同的 tag，开发时，可升级 dev 环境。等验证完毕以后，发完正式包，则升级 prod 环境
 
 <br/>
 
-## Use This Template
-
-Click <kbd>Use this template</kbd> button on GitHub.
-
-For details please check out the [docs](./template-readme.md).
+## Use 
